@@ -22,7 +22,8 @@ for (const seat of allSeats) {
         else {
             return;
         }
-    })
+    }
+    )
 }
 
 

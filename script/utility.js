@@ -28,7 +28,7 @@ newDiv.appendChild(newH4)
 const newP = document.createElement('p')
 newP.innerText = '550';
 newDiv.appendChild(newP)
-    }
+}
 
 
 
