@@ -54,7 +54,10 @@ for (const seat of allSeats) {
     )
 }
 
-
+function couponApply(){
+const couponDiv = document.getElementById('coupon-apply-div');
+couponDiv.classList.add('hidden')
+}
 
 
 
