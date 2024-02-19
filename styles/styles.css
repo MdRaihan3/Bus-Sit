@@ -13,11 +13,12 @@
     background-image: url(../images/banner.png);
     background-repeat: no-repeat;
     background-size: contain;
-    height: 600px;
+   
 }
 
 .new-div{
     display: flex;
 justify-content: space-between;
 }
+
 
